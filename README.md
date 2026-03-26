@@ -2,7 +2,7 @@
 
 ## Overview
 This project presents a smart IoT-based fire detection and alarm system developed using Cisco Packet Tracer and Python socket programming.  
-It integrates edge sensors, a home gateway, and a cloud server to detect hazards and respond automatically in real-time.
+It integrates edge sensors, a home gateway,and a cloud server to detect hazards and respond automatically in real-time.
 
 ---
 
